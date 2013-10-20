@@ -301,6 +301,7 @@ realistic_biomes:
 
   HORSE:
    inherit: animal
+   not_full_sunlight_multiplier: 1.0
    biomes:
     temperate: 1.0
     mountain: 0.25
